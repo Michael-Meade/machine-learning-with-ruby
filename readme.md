@@ -72,6 +72,7 @@ Please help us to fill out this section! :smiley:
   <sup>[[code](https://github.com/daugaard/example-linear-regression)]</sup>
 - [How to implement classification using logistic regression in Ruby](https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
 - [How to implement simple binary classification using a Neural Network in Ruby](https://www.practicalai.io/implementing-simple-classification-using-neural-network-in-ruby/)
+- [Build A Recommendation Engine In Ruby] (https://medium.com/@ysmiracle/build-a-recommendation-engine-in-ruby-f6c4b44f2916)
   <sup>[[code](https://github.com/daugaard/example-neural-network)]</sup>
 - [How to implement classification using a SVM in Ruby](https://www.practicalai.io/implementing-classification-using-a-svm-in-ruby/)
   <sup>[[code](https://github.com/daugaard/example-svm)]</sup>
@@ -84,7 +85,7 @@ Please help us to fill out this section! :smiley:
 - [Using the Python scikit-learn machine learning library in Ruby using PyCall](https://www.practicalai.io/using-scikit-learn-machine-learning-library-in-ruby-using-pycall/)
   <sup>[[code](https://github.com/daugaard/scikit-learn-from-ruby)]</sup>
 - [How to _evolve_ neural networks in Ruby using the Machine Learning Workbench](https://github.com/giuse/machine_learning_workbench/blob/master/examples/neuroevolution.rb)
-
+-[Practical Machine Learning Ruby](https://devcamp.com/site_blogs/practical-machine-learning-ruby)
 ## Machine Learning Libraries
 
 [Machine Learning][ml] algorithms in pure Ruby or written in other
