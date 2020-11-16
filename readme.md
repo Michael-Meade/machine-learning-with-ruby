@@ -67,7 +67,10 @@ the word using the `#RubyML` hash tag!
 ## :sparkles: Tutorials
 
 Please help us to fill out this section! :smiley:
-
+- []()
+- [Machine Learning made simple with Ruby](https://www.leanpanda.com/blog/2015-08-24-machine-learning-automatic-classification/)
+- [Intro to Machine Learning in Ruby - RSS = classify](https://dalibornasevic.com/posts/61-intro-to-machine-learning-in-ruby)
+- [Neural Networks in Ruby: A Not-So-Scary Introduction](https://www.honeybadger.io/blog/ruby-neural-networks)
 - [How to implement linear regression in Ruby](https://www.practicalai.io/implementing-linear-regression-using-ruby/)
   <sup>[[code](https://github.com/daugaard/example-linear-regression)]</sup>
 - [How to implement classification using logistic regression in Ruby](https://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/)
